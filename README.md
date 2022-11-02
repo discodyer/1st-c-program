@@ -17,7 +17,7 @@ int main()
 
 `“void main()”`的用法并不是任何标准制定的。
 
-C語言标准語法是`“int main()”`，任何实现都必须支持`int main(void) { /* ... */ }`和`int main(int argc, char* argv[]) { /* ... */ } ` 
+C语言标准语法是`“int main()”`，任何实现都必须支持`int main(void) { /* ... */ }`和`int main(int argc, char* argv[]) { /* ... */ }`
 
 [来源](http://www.stroustrup.com/bs_faq2.html#void-main)
 
@@ -35,6 +35,8 @@ C語言标准語法是`“int main()”`，任何实现都必须支持`int main(
 
 如果Git下载速度过慢，请使用[这个链接](https://nas.dustella.net/s/wncP
 )下载
+
+如果有其他问题请在issue中向我提问，或者直接联系我
 
 ### 作业任务
 
